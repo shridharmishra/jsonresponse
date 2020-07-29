@@ -26,18 +26,7 @@
             "actCodeOID": "Default Break Code",
             "endDateTime": "2020-06-19 09:10",
             "startDateTime": "2020-06-19 08:55"
-          },
-		  {
-            "actCodeOID": "Default Break Code",
-            "endDateTime": "2020-06-19 09:10",
-            "startDateTime": "2020-06-19 08:55"
-          },
-		  {
-            "actCodeOID": "Default Break Code",
-            "endDateTime": "2020-06-19 09:10",
-            "startDateTime": "2020-06-19 08:55"
-          }
-		  
+          }		  
         ],
         "startDateTime": "2020-06-19 02:30"
       }
